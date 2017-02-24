@@ -7,3 +7,6 @@ The C++ implementation of NPD
 # References
 
 http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html
+
+
+// added by yl
